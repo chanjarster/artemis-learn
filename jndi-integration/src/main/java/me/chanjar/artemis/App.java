@@ -1,4 +1,4 @@
-package me.chanjar;
+package me.chanjar.artemis;
 
 import javax.jms.*;
 import javax.naming.InitialContext;
